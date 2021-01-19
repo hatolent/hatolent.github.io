@@ -1,68 +1,68 @@
 {
    "basics":{
-      "name":"Alohi Tolentino",
-      "label":"Shidler Undergraduate",
-      "picture":"https://hatolent.github.io/images/ghprofile2.jpg",
-      "email":"hatolent@hawaii.edu",
-      "phone":"",
-      "website":"https://hatolent.github.io",
-      "summary":"IB, MIS, and marketing student at the University of Hawai'i. Expected graduation in Spring of 2022.",
-      "location":{
-         "address":"",
-         "postalCode":"",
-         "city":"Honolulu",
-         "countryCode":"USA",
-         "region":"Hawai'i"
+      "name": "Alohi Tolentino",
+      "label": "Shidler Undergraduate",
+      "picture": "https://hatolent.github.io/images/ghprofile2.jpg",
+      "email": "hatolent@hawaii.edu",
+      "phone": "",
+      "website": "https://hatolent.github.io",
+      "summary": "IB, MIS, and marketing student at the University of Hawai'i. Expected graduation in Spring of 2022.",
+      "location": {
+         "address": "",
+         "postalCode": "",
+         "city": "Honolulu",
+         "countryCode": "USA",
+         "region": "Hawai'i"
       },
       "profiles":[
          {
-            "network":"github",
-            "username":"hatolent",
-            "url":"http://github.com/hatolent"
+            "network": "github",
+            "username": "hatolent",
+            "url": "http://github.com/hatolent"
          },
          {
-            "network":"linkedin",
-            "username":"harmonytolentino",
-            "url":"http://linkedin.com/in/harmonytolentino"
+            "network": "linkedin",
+            "username": "harmonytolentino",
+            "url": "http://linkedin.com/in/harmonytolentino"
          },
          {
-            "network":"twitter",
-            "username":"",
-            "url":""
+            "network": "twitter",
+            "username": "",
+            "url": ""
          },
          {
-            "network":"instagram",
-            "username":"",
-            "url":""
+            "network": "instagram",
+            "username": "",
+            "url": ""
          }
       ]
    },
-   "interests":[
+   "interests": [
       {
-         "name":"Video Editing",
-         "keywords":[
+         "name": "Video Editing",
+         "keywords": [
             "Videography",
             "YouTube"
          ]
       },
       {
-         "name":"Casual Gaming",
-         "keywords":[
+         "name": "Casual Gaming",
+         "keywords": [
             
          ]
       },
       {
-         "name":"Technology",
-         "keywords":[
+         "name": "Technology",
+         "keywords": [
             
          ]
       }
    ],
-   "skills":[
+   "skills": [
       {
-         "name":"Adobe Suite",
-         "level":"Novice",
-         "keywords":[
+         "name": "Adobe Suite",
+         "level": "Novice",
+         "keywords": [
             "Photoshop",
             "Illustrator",
             "Premiere Pro",
@@ -70,57 +70,57 @@
          ]
       },
       {
-         "name":"Toolsets/OS",
-         "level":"",
-         "keywords":[
+         "name": "Toolsets/OS",
+         "level": "",
+         "keywords": [
             "MacOS",
             "Git/GitHub"
          ]
       }
    ],
-   "education":[
+   "education": [
       {
-         "institution":"University of Hawai'i, Honolulu, HI",
-         "area":"International Business, Management Information Systems, Marketing (expected Spring, 2022)",
-         "studyType":"B.A.",
-         "startDate":"2018-08-01",
-         "endDate":"Present",
-         "gpa":"",
-         "courses":[
+         "institution": "University of Hawai'i, Honolulu, HI",
+         "area": "International Business, Management Information Systems, Marketing (expected Spring, 2022)",
+         "studyType": "B.A.",
+         "startDate": "2018-08-01",
+         "endDate": "Present",
+         "gpa": "",
+         "courses": [
             
          ]
       }
    ],
-   "work":[
+   "work": [
       {
-         "company":"UH Student Housing Services",
-         "position":"Resident Assistant",
-         "website":"https://manoa.hawaii.edu/housing/",
-         "startDate":"2019-08-01",
-         "endDate":"Present",
-         "summary":"Resident Assistant for first-year communities",
-         "highlights":[
+         "company": "UH Student Housing Services",
+         "position": "Resident Assistant",
+         "website": "https://manoa.hawaii.edu/housing/",
+         "startDate": "2019-08-01",
+         "endDate": "Present",
+         "summary": "Resident Assistant for first-year communities",
+         "highlights": [
             "Community building through in-hall programming and communications",
             "Identifies community concerns/issues and plans for long-term resolution and improvement"
          ]
       },
       {
-         "company":"UH Office of Judicial Affairs",
-         "position":"Student Assistant",
-         "website":"http://www.studentaffairs.manoa.hawaii.edu/departments/judicial_affairs.php",
-         "startDate":"2018-08-01",
-         "endDate":"2019-05-01",
-         "summary":"Assisted with administrative/clerical work",
-         "highlights":[
+         "company": "UH Office of Judicial Affairs",
+         "position": "Student Assistant",
+         "website": "http://www.studentaffairs.manoa.hawaii.edu/departments/judicial_affairs.php",
+         "startDate": "2018-08-01",
+         "endDate": "2019-05-01",
+         "summary": "Assisted with administrative/clerical work",
+         "highlights": [
             "Answered the phone and redirected callers to appropriate resources",
             "Maintained office filing system and helped create materials to support office communications"
          ]
       }
    ],
-   "references":[
+   "references": [
       {
-         "name":"Available upon request",
-         "reference":""
+         "name": "Available upon request",
+         "reference": ""
       }
    ]
 }
